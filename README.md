@@ -1,11 +1,8 @@
-## Hi there / こんにちは 👋
-
-i'm a student programmer in Japan. <br>
-i was programming on <a href=https://scratchmit.edu>Scratch</a> three year.
-
-日本で学生をしているプログラマーです。<br>
-<a href=https://scratchmit.edu>Scratch</a>というサイトで3年間プログラミングをしていました。
-
-## My account on other websites / 他のウェブサイトでの私のアカウント
-<a href=https://figma.com/@Nellzz9uestQ>Account on figma</a>
-<a href=https://scratch.mit.edu/users/NellArtz>Account on scratch</a>
+## 👋Hi there
+<div algin="center">
+  <img src="Group 72.jpg">
+</div>
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Nellzz9Q&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nellzz9Q&theme=vue-dark&layout=compact" />
+</div>
