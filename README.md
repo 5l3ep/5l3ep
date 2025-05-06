@@ -4,10 +4,12 @@
 
 ## 👋Hi there I'm Nell!
 I'm a middle school developer with a passion for design and coding.
+Call me Nell or Nellzz:P
 ## 💖Favorite things
-<p>Penguins</p>
-<p>Playing FPS</p>
-<p>Design on figma</p>
+<p>🐧 Penguins</p>
+<p>🎮 Playing FPS</p>
+<p>📏 Design on figma</p>
+<p>⌨️ Coding on VSCode with GPT</p>
 
 ## 🪙 My status
 
