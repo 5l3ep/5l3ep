@@ -2,9 +2,9 @@
   <img src="Group 72.svg">
 </div>
 
-## 👋Hi there I'm Nell!
+## 👋Hi there I'm pixel!
 <p>I'm a middle school developer with a passion for design and coding.<br>
-Call me Nell or Nellzz:P</p>
+Call me pix!</p>
 
 ## 💖Favorite things
 <p>🐧 Penguins</p>
