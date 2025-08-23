@@ -1,24 +1,46 @@
-<div align="center">
-  <img src="Group 72.svg">
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="" />
 </div>
 
-## 👋Hi there I'm pixel!
-<p>I'm a middle school developer with a passion for design and coding.<br>
-Call me pix!</p>
 
-## 💖Favorite things
-<p>🐧 Penguins</p>
-<p>🎮 Playing FPS</p>
-<p>📏 Design on figma</p>
-<p>⌨️ Coding on VSCode with GPT</p>
+<!-- 2. プロフィールや連絡先を変更 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-## 📑My Links
+- 🧑‍💻 I'm a Designer and Programmer.
+- 📫 How to reach me: [X - @5l3ep](https://x.com/5l3ep)
+<br>
 
-<a href="https://open.spotify.com/playlist/13RRRrLieJ7Ifba7cnuJuH?si=7ef1218ae37e4763">My Play List</a>
 
-## 🪙 My status
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,figma,python" />
+<br>
 
-<div align="center"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Nellzz9Q&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nellzz9Q&theme=vue-dark&layout=compact" />
+
+<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=5l3ep&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5l3ep&theme=vue-dark&layout=compact" />
 </div>
+
+
+<!--
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
