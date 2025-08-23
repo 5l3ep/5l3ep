@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a Designer and Programmer.
-- 📫 How to reach me: [X - @5l3ep](https://x.com/5l3ep)
+- 📫 How to reach me: [Scratch - @sl3ep](https://scratch.mit.edu/users/sl3ep/)
 <br>
 
 
