@@ -11,7 +11,6 @@
 - 📫 How to reach me: [Scratch - @sl3ep](https://scratch.mit.edu/users/sl3ep/)
 <br>
 
-
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
@@ -23,7 +22,7 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
+[![5l3ep's GitHub stats](https://github-readme-stats.vercel.app/api?username=5l3ep&show_icons=true&theme=tokyonight)](https://github.com/5l3ep/github-readme-stats)
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=5l3ep&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5l3ep&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5l3ep&theme=tokyonight&layout=compact" />
 </div>
